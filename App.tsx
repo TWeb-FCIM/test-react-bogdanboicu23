@@ -13,7 +13,7 @@ function App() {
 
       <main className="App-main">
         <section className="counter-section">
-          <h2>Counter Demo</h2>
+          <h2>Counter 2.0s</h2>
           <p>Current count: <strong>{count}</strong></p>
           <div className="button-group">
             <button onClick={() => setCount(count + 1)}>Increment</button>
