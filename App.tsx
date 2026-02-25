@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React Page</h1>
+        <h1>Welcome to My APP</h1>
         <p>Built with React and TypeScript</p>
       </header>
 
